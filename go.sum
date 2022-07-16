@@ -758,8 +758,6 @@ github.com/hashicorp/packer-plugin-parallels v1.0.3 h1:smypphUCEj3arCdlvbNtZvGC1
 github.com/hashicorp/packer-plugin-parallels v1.0.3/go.mod h1:Q842nvosVmP5FnYozk8ZZj93HGIan19jHTxGeteBCb0=
 github.com/hashicorp/packer-plugin-profitbricks v1.0.2 h1:wAlTRm1A39T9hferxFtKaLCDmlsqA9cU7dTQtMLcvKQ=
 github.com/hashicorp/packer-plugin-profitbricks v1.0.2/go.mod h1:Gpg/h6A0UcTYzLwDw2GrUJjlPUmL5QaxGBJWH0NMx0g=
-github.com/hashicorp/packer-plugin-proxmox v1.0.8 h1:Dwm3b5DOahVHCupzsPV+d1xlCydWPu9znxagN9GNhj0=
-github.com/hashicorp/packer-plugin-proxmox v1.0.8/go.mod h1:I+VCgJ6Cka6qcQ2A11uWq8ZHlaYW7vQ1XLv0Vn3HYIw=
 github.com/hashicorp/packer-plugin-puppet v1.0.1 h1:/obGvsyiKiO2hX9TxRTJ7Y+/44K4WqKJlzg4xHAyIoY=
 github.com/hashicorp/packer-plugin-puppet v1.0.1/go.mod h1:avMyKLTT/6SVR/hEgJk92SMziK3nwlNJ00kOYgwIDMk=
 github.com/hashicorp/packer-plugin-qemu v1.0.5 h1:xa7OLs22ws5rYz0j7fU1kp3KoxMapnL5mo3qrELkwJY=
@@ -1010,6 +1008,8 @@ github.com/outscale/osc-sdk-go v1.11.2/go.mod h1:jw8aqBPbmPozu6RNxVdQEePZ9h4tsnf
 github.com/packer-community/winrmcp v0.0.0-20180921204643-0fd363d6159a/go.mod h1:f6Izs6JvFTdnRbziASagjZ2vmf55NSIkC/weStxCHqk=
 github.com/packer-community/winrmcp v0.0.0-20180921211025-c76d91c1e7db h1:9uViuKtx1jrlXLBW/pMnhOfzn3iSEdLase/But/IZRU=
 github.com/packer-community/winrmcp v0.0.0-20180921211025-c76d91c1e7db/go.mod h1:f6Izs6JvFTdnRbziASagjZ2vmf55NSIkC/weStxCHqk=
+github.com/packer365/10002-packer-plugin-proxmox v1.0.8 h1:DmxYCPkyqcEz1xGT4V5FZ1Hsl5LZcCi/Xaui8YSt8h4=
+github.com/packer365/10002-packer-plugin-proxmox v1.0.8/go.mod h1:I+VCgJ6Cka6qcQ2A11uWq8ZHlaYW7vQ1XLv0Vn3HYIw=
 github.com/pascaldekloe/goe v0.0.0-20180627143212-57f6aae5913c/go.mod h1:lzWF7FIEvWOWxwDKqyGYQf6ZUaNfKdP144TG7ZOy1lc=
 github.com/pascaldekloe/goe v0.1.0 h1:cBOtyMzM9HTpWjXfbbunk26uA6nG3a8n06Wieeh0MwY=
 github.com/pascaldekloe/goe v0.1.0/go.mod h1:lzWF7FIEvWOWxwDKqyGYQf6ZUaNfKdP144TG7ZOy1lc=

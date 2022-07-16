@@ -267,3 +267,5 @@ require (
 )
 
 go 1.17
+
+replace github.com/hashicorp/packer-plugin-proxmox v1.0.8 => github.com/packer365/10002-packer-plugin-proxmox v1.0.8

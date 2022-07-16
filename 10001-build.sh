@@ -11,6 +11,7 @@ if [ -d dist ];then
     mkdir -p dist
 fi
 unset GOPATH;
+go mod tidy
 go build -v -x -o dist/ .
 ls -al dist 
 cd dist
