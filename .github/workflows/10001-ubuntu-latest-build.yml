@@ -13,4 +13,4 @@ jobs:
         uses: johnwbyrd/update-release@v1
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-        files: ./dist/10001-ubuntu-latest-build-packer 
+          files: ./dist/10001-ubuntu-latest-build-packer 
