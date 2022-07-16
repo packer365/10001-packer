@@ -9,3 +9,7 @@ jobs:
         with:
           go-version: '1.17'
       - run: ./10001-ubuntu-latest-build.sh
+      - name: upload-to-github-release
+        uses: softprops/action-gh-release@v1
+        with:
+          files: dist/10001-ubuntu-latest-build-packer
