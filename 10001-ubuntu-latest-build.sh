@@ -15,4 +15,6 @@ go build -v -x -o dist/ .
 ls -al dist 
 cd dist
 du -hs
-mv packer 10001-ubuntu-latest-build-packer
+chmod +x packer
+./packer --version
+
